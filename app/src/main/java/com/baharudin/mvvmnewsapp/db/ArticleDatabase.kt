@@ -3,6 +3,7 @@ package com.baharudin.mvvmnewsapp.db
 import android.content.Context
 import androidx.room.*
 import com.baharudin.mvvmnewsapp.model.Article
+import com.baharudin.mvvmnewsapp.model.Source
 
 @Database(
     entities = [Article::class],
